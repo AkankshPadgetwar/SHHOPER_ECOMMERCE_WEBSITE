@@ -13,7 +13,7 @@ app.use(express.json());
 app.use(cors());
 
 // Database Connection With MongoDB
-mongoose.connect("mongodb+srv://akanksh02:012345@cluster0.izeb1ui.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0");
+mongoose.connect("");
 
 // API Creation
 
