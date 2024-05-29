@@ -1,0 +1,11 @@
+TO INSTALL THE FOLLOWING CODE :
+"npm install ."
+
+TO RUN THE FRONTEND FOLDER:
+"npm start"
+
+TO RUN THE BACKEND FOLDER:
+"node index.js"
+
+TO RUN THE ADMIN FOLDER:
+"npm run dev"
